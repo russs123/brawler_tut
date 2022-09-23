@@ -32,12 +32,22 @@ https://github.com/russs123/brawler_tut.git
 
 Enjoy 😎
 
+## 4. How To Play:
 
-## 4. Contributing:
+Press the following keys on a keyboard to play the game:
 
-Pull requests are welcome. 
+- Warrior
 
-For major changes, please open an issue first to discuss what you would like to change with project owner (Coding With Russ).
+| Movement | Jumping | Attacking  | 
+| :---: | :---: | :---: |
+| a <--> d  | w | z or x
+
+
+- Wizard
+
+| Movement | Jumping | Attacking  | 
+| :---: | :---: | :---: |
+| h <--> k  | u | n or m
 
 
 ## 5. Screen Recording:
@@ -45,7 +55,14 @@ For major changes, please open an issue first to discuss what you would like to 
 https://user-images.githubusercontent.com/15172744/190894691-c52ac22d-b76c-4890-9057-98eed66683a9.mp4
 
 
-## 6. Created By:
+## 6. Contributing:
+
+Pull requests are welcome. 
+
+For major changes, please open an issue first to discuss what you would like to change with project owner (Coding With Russ).
+
+
+## 7. Created By:
 
 Name: Coding With Russ
 
